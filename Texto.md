@@ -1,1 +1,0 @@
-**Este es un archivo de texto md, creado desde VSCode**
